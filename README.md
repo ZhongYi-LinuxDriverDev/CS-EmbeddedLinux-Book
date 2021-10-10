@@ -15,7 +15,7 @@ CS-EmbeddedLinux-Book
 
 
 
-**如果国内访问Github网速较慢，可以访问码云：[]()**
+**如果国内访问Github网速较慢，可以访问码云：[https://gitee.com/dongxingbo/CS-EmbeddedLinux-Book](https://gitee.com/dongxingbo/CS-EmbeddedLinux-Book)**
 
 
 
