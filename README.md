@@ -378,7 +378,7 @@ DEBUG HACKS中文版  深入调试的技术和工具.pdf：[百度云下载链�
 ![](C:\Users\39580\AppData\Roaming\Typora\typora-user-images\image-20211009222345596.png)
 
 
-![](https://github.com/ZhongYi-LinuxDriverDev/Picture/blob/main/Wechat/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81.png)
+![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/公众号二维码_普通.png)
 
 **微信扫描上方二维码回复「电子书」**
 
