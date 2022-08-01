@@ -380,7 +380,7 @@ DEBUG HACKS中文版  深入调试的技术和工具.pdf：[百度云下载链�
 
 ![](https://gitee.com/dongxingbo/Picture/raw/master//Wechat/公众号二维码_普通.png)
 
-**微信扫描上方二维码回复「电子书」**
+**关注微信公众号【嵌入式与Linux那些事】，在公众号回复「电子书」 即可获取全部电子书。**
 
 ## 免责声明
 
