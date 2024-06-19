@@ -47,49 +47,179 @@ CS-EmbeddedLinux-Book
 
 ## ARM体系与架构
 
-Arm64 指令集(the_a64_Instruction_set_100898_0100).pdf：[百度云下载链接](https://pan.baidu.com/s/1CWsMaj5mBqaBbFGF7nHxog) 提取码：ruuu
+「Arm Cortex-A 编程指南(ARM_cortex_a_series_PG).zip」
 
-Arm64 指令集快速查找表(ARMv8 A64 Quick Reference).pdf：[百度云下载链接](https://pan.baidu.com/s/1Up-bljtMLbgnYH0KsgFFFg)  提取码：0jm8
+链接：https://pan.quark.cn/s/6ba86b48984e
 
-Armv8(64)指令集(ARMv8_ISA_Overview_PRD03-GENC-010197-15-0).pdf：[百度云下载链接](https://pan.baidu.com/s/1evULZNcnVmu4lQiAPrdcyw)  提取码：8t0r
+提取码：xY23
 
-Armv7-M 架构参考手册(armv7m_arm).pdf：[百度云下载链接](https://pan.baidu.com/s/1B-Ca6wHn9eKQsxzOpXxUiQ)  提取码：sa3m
+ 
 
-ARM嵌入式系统基础教程.pdf：[百度云下载链接](https://pan.baidu.com/s/173f39IC4HYtcUcI_MP_e9g) 提取码：qc2t
+「Arm64 指令集(the_a64_Instruction_set_100898_0100).zip」
 
-ARM嵌入式系统开发-软件设计与优化.pdf：[百度云下载链接](https://pan.baidu.com/s/1CFTiTt3X09MaGEkDzdRqeA) 提取码：qk8k
+链接：https://pan.quark.cn/s/9e3121d0d25f
 
-ARM系列处理器应用技术完全手册.pdf：[百度云下载链接](https://pan.baidu.com/s/10RS4gDC7N282E0qHGRbuYA) 提取码：op7v
+提取码：yACj
 
-ARM体系结构与编程.pdf：[百度云下载链接](https://pan.baidu.com/s/1-KxPcdvVEbhgD28KrOTfOw) 提取码：s7ac
+ 
 
-Arm Cortex-A 编程指南(ARM_cortex_a_series_PG).pdf：[百度云下载链接](https://pan.baidu.com/s/1VN6zrf_4ufhxIc19FmR9TQ) 提取码：wh7f
+「Arm64 指令集快速查找表(ARMv8 A64 Quick Reference).zip」
 
-Armv7-AR 架构参考手册(armv7_AR_architecture_reference_manual).pdf：[百度云下载链接](https://pan.baidu.com/s/1HF_Zdk085ChZ6aBF03pjFg) 提取码：7k3v
+链接：https://pan.quark.cn/s/bae8515fde82
 
-Armv8-A 编程指南(Cortex_-A Series Programmer's Guide for ARMv8-A).pdf：[百度云下载链接](https://pan.baidu.com/s/1da7Tj_2C4SKGevC7OVSeaA)  提取码：prqn
+提取码：nBEE
 
-Armv8-A 架构参考手册(Arm® Architecture Reference Manual for ARMv8-A).pdf：[百度云下载链接](https://pan.baidu.com/s/1YPZuB7DO_z5I7UOJJqtWiA )  提取码：5nky
+ 
 
-Cortex-A17 技术参考手册(cortex_a17_r1p1_trm).pdf：链接：[百度云下载链接](https://pan.baidu.com/s/1Iyqsm3BzwGoS5-8OwyaFJg) 提取码：g93x
+「ARM嵌入式系统基础教程.zip」
 
-Cortex-A15 技术参考手册(cortex_a15_r4p0_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1t4gER3qx7khLAQ701iWnbw) 提取码：bq0l
+链接：https://pan.quark.cn/s/b11fa514812b
 
-Cortex-A9 技术参考手册(cortex_a9_mpcore_r3p0_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1h779kFdKYYU_Xdjj4UoE6A) 提取码：7blw
+提取码：RaLJ
 
-Cortex-A7 技术参考手册(cortex_a7_mpcore_r0p5_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1b8_INknq6R9Ul1UfGGSFoA) 提取码：12ca
+ 
 
-Cortex-A72 技术参考手册(cortex_a72_mpcore_trm_100095_0003_05_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1EyaowwfYIjELHtg1TIsOvg) 提取码：afl2
+「ARM嵌入式系统开发-软件设计与优化.zip」
 
-Cortex-A53 技术参考手册(ARM_ Cortex_-A53 MPCore Processor).pdf：[百度云下载链接](https://pan.baidu.com/s/1lf2EDMaCwaGfnhma0pXQHg) 提取码：0uc7
+链接：https://pan.quark.cn/s/e855ca16990f
 
-Cortex-A35 技术参考手册(cortex_a35_trm_100236_0002_00_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1bfynlAWkHVIspIrgBH1_zw) 提取码：vwpl
+提取码：rVQQ
 
-Cortex-A75 技术参考手册(cortex_a75_trm_100403_0201_00_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1BCuepJYHjGKRTCYUuPO5AQ) 提取码：tsw7
+ 
 
-Cortex-A73 技术参考手册(cortex_a73_trm_100048_0002_05_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1L36M6-6w8MHoa4xC01dzJQ) 提取码：1jgz
+「ARM体系结构与编程.zip」
 
-Cortex-M3 技术参考手册(cortex_m3_r2p0_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1zJ8vxyelca978_2py_bpVg) 提取码：mgqi
+链接：https://pan.quark.cn/s/73062388699e
+
+提取码：xELG
+
+ 
+
+「Armv7-AR 架构参考手册(armv7_AR_architecture_reference_manual).zip」
+
+链接：https://pan.quark.cn/s/bd4ac77c3991
+
+提取码：XXFn
+
+ 
+
+「Armv7-M 架构参考手册(armv7m_arm).zip」
+
+链接：https://pan.quark.cn/s/e18f6504a938
+
+提取码：eVyd
+
+ 
+
+「Armv8(64)指令集(ARMv8_ISA_Overview_PRD03-GENC-010197-15-0).zip」
+
+链接：https://pan.quark.cn/s/d596088884ee
+
+提取码：St4H
+
+ 
+
+「Armv8-A 编程指南(Cortex_-A Series Programmer&#39;s Guide for ARMv8-A).zip」
+
+链接：https://pan.quark.cn/s/a8e2ef9231c4
+
+提取码：as3e
+
+ 
+
+「Armv8-A 架构参考手册(Arm® Architecture Reference Manual for ARMv8-A).zip」
+
+链接：https://pan.quark.cn/s/1848403cf878
+
+提取码：4VXx
+
+ 
+
+「ARM系列处理器应用技术完全手册.zip」
+
+链接：https://pan.quark.cn/s/853ddb56fef5
+
+提取码：6g3n
+
+ 
+
+「Cortex-A7 技术参考手册(cortex_a7_mpcore_r0p5_trm).Zip」
+
+链接：https://pan.quark.cn/s/d970af44cb11
+
+提取码：4pjv
+
+ 
+
+「Cortex-A9 技术参考手册(cortex_a9_mpcore_r3p0_trm).Zip」
+
+链接：https://pan.quark.cn/s/8c5f692a01f2
+
+提取码：3ukV
+
+ 
+
+「Cortex-A15 技术参考手册(cortex_a15_r4p0_trm).Zip」
+
+链接：https://pan.quark.cn/s/e486649a0508
+
+提取码：KzRA
+
+ 
+
+我用夸克网盘分享了「Cortex-A17 技术参考手册(cortex_a17_r1p1_trm).Zip」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
+
+链接：https://pan.quark.cn/s/9d3336e05039
+
+提取码：aeUz
+
+ 
+
+「Cortex-A35 技术参考手册(cortex_a35_trm_100236_0002_00_en).Zip」
+
+链接：https://pan.quark.cn/s/d6eaa4be1029
+
+提取码：bTuH
+
+ 
+
+「Cortex-A53 技术参考手册(ARM_ Cortex_-A53 MPCore Processor).Zip」
+
+链接：https://pan.quark.cn/s/94c2a38f49aa
+
+提取码：peNA
+
+ 
+
+「Cortex-A72 技术参考手册(cortex_a72_mpcore_trm_100095_0003_05_en).Zip」
+
+链接：https://pan.quark.cn/s/4b82cec51353
+
+提取码：vBAe
+
+ 
+
+「Cortex-A73 技术参考手册(cortex_a73_trm_100048_0002_05_en).Zip」
+
+链接：https://pan.quark.cn/s/a1787ff7be0e
+
+提取码：Jy6j
+
+ 
+
+「Cortex-A75 技术参考手册(cortex_a75_trm_100403_0201_00_en).Zip」
+
+链接：https://pan.quark.cn/s/e33e221c1d85
+
+提取码：G92d
+
+ 
+
+「Cortex-M3 技术参考手册(cortex_m3_r2p0_trm).Zip」
+
+链接：https://pan.quark.cn/s/a515b8d55497
+
+提取码：zBDE
 
 ## 编程语言
 
