@@ -47,989 +47,281 @@ CS-EmbeddedLinux-Book
 
 ## ARM体系与架构
 
-「Arm Cortex-A 编程指南(ARM_cortex_a_series_PG).zip」
+Arm64 指令集(the_a64_Instruction_set_100898_0100).pdf：[百度云下载链接](https://pan.baidu.com/s/1CWsMaj5mBqaBbFGF7nHxog) 提取码：ruuu
 
-链接：https://pan.quark.cn/s/6ba86b48984e
+Arm64 指令集快速查找表(ARMv8 A64 Quick Reference).pdf：[百度云下载链接](https://pan.baidu.com/s/1Up-bljtMLbgnYH0KsgFFFg)  提取码：0jm8
 
-提取码：xY23
+Armv8(64)指令集(ARMv8_ISA_Overview_PRD03-GENC-010197-15-0).pdf：[百度云下载链接](https://pan.baidu.com/s/1evULZNcnVmu4lQiAPrdcyw)  提取码：8t0r
 
- 
+Armv7-M 架构参考手册(armv7m_arm).pdf：[百度云下载链接](https://pan.baidu.com/s/1B-Ca6wHn9eKQsxzOpXxUiQ)  提取码：sa3m
 
-「Arm64 指令集(the_a64_Instruction_set_100898_0100).zip」
+ARM嵌入式系统基础教程.pdf：[百度云下载链接](https://pan.baidu.com/s/173f39IC4HYtcUcI_MP_e9g) 提取码：qc2t
 
-链接：https://pan.quark.cn/s/9e3121d0d25f
+ARM嵌入式系统开发-软件设计与优化.pdf：[百度云下载链接](https://pan.baidu.com/s/1CFTiTt3X09MaGEkDzdRqeA) 提取码：qk8k
 
-提取码：yACj
+ARM系列处理器应用技术完全手册.pdf：[百度云下载链接](https://pan.baidu.com/s/10RS4gDC7N282E0qHGRbuYA) 提取码：op7v
 
- 
+ARM体系结构与编程.pdf：[百度云下载链接](https://pan.baidu.com/s/1-KxPcdvVEbhgD28KrOTfOw) 提取码：s7ac
 
-「Arm64 指令集快速查找表(ARMv8 A64 Quick Reference).zip」
+Arm Cortex-A 编程指南(ARM_cortex_a_series_PG).pdf：[百度云下载链接](https://pan.baidu.com/s/1VN6zrf_4ufhxIc19FmR9TQ) 提取码：wh7f
 
-链接：https://pan.quark.cn/s/bae8515fde82
+Armv7-AR 架构参考手册(armv7_AR_architecture_reference_manual).pdf：[百度云下载链接](https://pan.baidu.com/s/1HF_Zdk085ChZ6aBF03pjFg) 提取码：7k3v
 
-提取码：nBEE
+Armv8-A 编程指南(Cortex_-A Series Programmer's Guide for ARMv8-A).pdf：[百度云下载链接](https://pan.baidu.com/s/1da7Tj_2C4SKGevC7OVSeaA)  提取码：prqn
 
- 
+Armv8-A 架构参考手册(Arm® Architecture Reference Manual for ARMv8-A).pdf：[百度云下载链接](https://pan.baidu.com/s/1YPZuB7DO_z5I7UOJJqtWiA )  提取码：5nky
 
-「ARM嵌入式系统基础教程.zip」
+Cortex-A17 技术参考手册(cortex_a17_r1p1_trm).pdf：链接：[百度云下载链接](https://pan.baidu.com/s/1Iyqsm3BzwGoS5-8OwyaFJg) 提取码：g93x
 
-链接：https://pan.quark.cn/s/b11fa514812b
+Cortex-A15 技术参考手册(cortex_a15_r4p0_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1t4gER3qx7khLAQ701iWnbw) 提取码：bq0l
 
-提取码：RaLJ
+Cortex-A9 技术参考手册(cortex_a9_mpcore_r3p0_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1h779kFdKYYU_Xdjj4UoE6A) 提取码：7blw
 
- 
+Cortex-A7 技术参考手册(cortex_a7_mpcore_r0p5_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1b8_INknq6R9Ul1UfGGSFoA) 提取码：12ca
 
-「ARM嵌入式系统开发-软件设计与优化.zip」
+Cortex-A72 技术参考手册(cortex_a72_mpcore_trm_100095_0003_05_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1EyaowwfYIjELHtg1TIsOvg) 提取码：afl2
 
-链接：https://pan.quark.cn/s/e855ca16990f
+Cortex-A53 技术参考手册(ARM_ Cortex_-A53 MPCore Processor).pdf：[百度云下载链接](https://pan.baidu.com/s/1lf2EDMaCwaGfnhma0pXQHg) 提取码：0uc7
 
-提取码：rVQQ
+Cortex-A35 技术参考手册(cortex_a35_trm_100236_0002_00_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1bfynlAWkHVIspIrgBH1_zw) 提取码：vwpl
 
- 
+Cortex-A75 技术参考手册(cortex_a75_trm_100403_0201_00_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1BCuepJYHjGKRTCYUuPO5AQ) 提取码：tsw7
 
-「ARM体系结构与编程.zip」
+Cortex-A73 技术参考手册(cortex_a73_trm_100048_0002_05_en).pdf：[百度云下载链接](https://pan.baidu.com/s/1L36M6-6w8MHoa4xC01dzJQ) 提取码：1jgz
 
-链接：https://pan.quark.cn/s/73062388699e
-
-提取码：xELG
-
- 
-
-「Armv7-AR 架构参考手册(armv7_AR_architecture_reference_manual).zip」
-
-链接：https://pan.quark.cn/s/bd4ac77c3991
-
-提取码：XXFn
-
- 
-
-「Armv7-M 架构参考手册(armv7m_arm).zip」
-
-链接：https://pan.quark.cn/s/e18f6504a938
-
-提取码：eVyd
-
- 
-
-「Armv8(64)指令集(ARMv8_ISA_Overview_PRD03-GENC-010197-15-0).zip」
-
-链接：https://pan.quark.cn/s/d596088884ee
-
-提取码：St4H
-
- 
-
-「Armv8-A 编程指南(Cortex_-A Series Programmer&#39;s Guide for ARMv8-A).zip」
-
-链接：https://pan.quark.cn/s/a8e2ef9231c4
-
-提取码：as3e
-
- 
-
-「Armv8-A 架构参考手册(Arm® Architecture Reference Manual for ARMv8-A).zip」
-
-链接：https://pan.quark.cn/s/1848403cf878
-
-提取码：4VXx
-
- 
-
-「ARM系列处理器应用技术完全手册.zip」
-
-链接：https://pan.quark.cn/s/853ddb56fef5
-
-提取码：6g3n
-
- 
-
-「Cortex-A7 技术参考手册(cortex_a7_mpcore_r0p5_trm).Zip」
-
-链接：https://pan.quark.cn/s/d970af44cb11
-
-提取码：4pjv
-
- 
-
-「Cortex-A9 技术参考手册(cortex_a9_mpcore_r3p0_trm).Zip」
-
-链接：https://pan.quark.cn/s/8c5f692a01f2
-
-提取码：3ukV
-
- 
-
-「Cortex-A15 技术参考手册(cortex_a15_r4p0_trm).Zip」
-
-链接：https://pan.quark.cn/s/e486649a0508
-
-提取码：KzRA
-
- 
-
-我用夸克网盘分享了「Cortex-A17 技术参考手册(cortex_a17_r1p1_trm).Zip」，点击链接即可保存。打开「夸克APP」，无需下载在线播放视频，畅享原画5倍速，支持电视投屏。
-
-链接：https://pan.quark.cn/s/9d3336e05039
-
-提取码：aeUz
-
- 
-
-「Cortex-A35 技术参考手册(cortex_a35_trm_100236_0002_00_en).Zip」
-
-链接：https://pan.quark.cn/s/d6eaa4be1029
-
-提取码：bTuH
-
- 
-
-「Cortex-A53 技术参考手册(ARM_ Cortex_-A53 MPCore Processor).Zip」
-
-链接：https://pan.quark.cn/s/94c2a38f49aa
-
-提取码：peNA
-
- 
-
-「Cortex-A72 技术参考手册(cortex_a72_mpcore_trm_100095_0003_05_en).Zip」
-
-链接：https://pan.quark.cn/s/4b82cec51353
-
-提取码：vBAe
-
- 
-
-「Cortex-A73 技术参考手册(cortex_a73_trm_100048_0002_05_en).Zip」
-
-链接：https://pan.quark.cn/s/a1787ff7be0e
-
-提取码：Jy6j
-
- 
-
-「Cortex-A75 技术参考手册(cortex_a75_trm_100403_0201_00_en).Zip」
-
-链接：https://pan.quark.cn/s/e33e221c1d85
-
-提取码：G92d
-
- 
-
-「Cortex-M3 技术参考手册(cortex_m3_r2p0_trm).Zip」
-
-链接：https://pan.quark.cn/s/a515b8d55497
-
-提取码：zBDE
+Cortex-M3 技术参考手册(cortex_m3_r2p0_trm).pdf：[百度云下载链接](https://pan.baidu.com/s/1zJ8vxyelca978_2py_bpVg) 提取码：mgqi
 
 ## 编程语言
 
 ### C
 
-「C Primer Plus 第6版 中文版.zip」
+C Primer Plus 第6版 中文版.pdf：[百度云下载链接](https://pan.baidu.com/s/1tbMVgxpj8lfkhFPmnG7YEw) 提取码：mcjl
 
-链接：https://pan.quark.cn/s/c3858e64a56d
+C程序设计语言（第2版 新版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1zp3yoahnZQdtyHWRJe1ttg) 提取码：ejql
 
-提取码：3qX7
+C程序设计语言（第2版 新版）习题解答.pdf：[百度云下载链接](https://pan.baidu.com/s/1YogAW4GIYN9wH5jMKPRLIg) 提取码：29ki
 
- 
+C和指针（第二版）.pdf：[百度云下载链接](https://pan.baidu.com/s/19kBGbIl13UABffF8Q96sVA) 提取码：4xsb
 
-「C程序设计语言（第2版 新版）.Zip」
+C陷阱与缺陷.pdf：链接：[百度云下载链接](https://pan.baidu.com/s/1_PA3OBvj04qQvjNjxEuH-A) 提取码：fgpm
 
-链接：https://pan.quark.cn/s/a642a33cc34b
+C语言函数大全.pdf：[百度云下载链接](https://pan.baidu.com/s/1Ni0d-Bp4zUiMVK3f0KJKxQ) 提取码：q14l
 
-提取码：S2hx
+C语言解惑(中文版).pdf：[百度云下载链接](https://pan.baidu.com/s/1tekC8D5f8DANaZ74axUqkA) 提取码：pbpo
 
- 
+C语言解析教程.pdf：[百度云下载链接](https://pan.baidu.com/s/1YVGGPb02WYSrtWqFQsWZCQ) 提取码：s31p
 
-「C程序设计语言（第2版 新版）习题解答.Zip」
+C语言入门经典（第4版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1bvobZd5j9m2_n-LFSmDPDw) 提取码：lm9l
 
-链接：https://pan.quark.cn/s/0c64ddbae0c4
+C专家编程.pdf：[百度云下载链接](https://pan.baidu.com/s/1Sj9-R-6WyNEE9tr51Xg1gw) 提取码：bv16
 
-提取码：9YZ2
+ISO IEC 9899 1999 (C99).pdf：[百度云下载链接](https://pan.baidu.com/s/1efyowgO1VSTP9vt2L1sqqA) 提取码：wup3
 
- 
+Linux C函数库参考手册.pdf：[百度云下载链接](https://pan.baidu.com/s/1F-3fZSZzaUJaDK90AGCUBA) 提取码：ok1o
 
-「C和指针（第二版）.zip」
+The_C_Programming_Language(C程序设计语言).pdf：[百度云下载链接](https://pan.baidu.com/s/1oBHcy8On8xcbK4QZ8mJJUg) 提取码：6be9
 
-链接：https://pan.quark.cn/s/ed942440943e
+高质量C++编程指南.pdf：[百度云下载链接](https://pan.baidu.com/s/1SNohFTsCJXoYLXTP4AmsGg) 提取码：whhu
 
-提取码：A9B4
+华为C语言规范.pdf：[百度云下载链接](https://pan.baidu.com/s/16Gu1_2hmWhroayuZJjFAXA) 提取码：6xre
 
- 
+计算机等级考试过关攻略-C语言.pdf：[百度云下载链接](https://pan.baidu.com/s/1wiy-XBB4Whsz4qEHucbTOQ) 提取码：lsdo
 
-「C陷阱与缺陷.zip」
-
-链接：https://pan.quark.cn/s/ff3acbfdc3b3
-
-提取码：3D3X
-
- 
-
-「C语言函数大全.zip」
-
-链接：https://pan.quark.cn/s/7f4c9aadb560
-
-提取码：1RiF
-
- 
-
-「C语言解惑(中文版).zip」
-
-链接：https://pan.quark.cn/s/6985e074ba4e
-
-提取码：D4U1
-
- 
-
-「C语言解析教程.zip」
-
-链接：https://pan.quark.cn/s/558d7d2ce28b
-
-提取码：VdGG
-
- 
-
-「C语言入门经典（第4版）.Zip」
-
-链接：https://pan.quark.cn/s/17efee97423d
-
-提取码：LYCh
-
- 
-
-「C专家编程.zip」
-
-链接：https://pan.quark.cn/s/8c0c3f1f8deb
-
-提取码：cXL6
-
- 
-
-「高质量C++编程指南.zip」
-
-链接：https://pan.quark.cn/s/051253741ba3
-
-提取码：xc6S
-
- 
-
-「华为C语言规范.zip」
-
-链接：https://pan.quark.cn/s/7ba97ae62f16
-
-提取码：r2HL
-
- 
-
-「ISO IEC 9899 1999 (C99).zip」
-
-链接：https://pan.quark.cn/s/da9a0c294abc
-
-提取码：FeF2
-
- 
-
-「计算机等级考试过关攻略-C语言.zip」
-
-链接：https://pan.quark.cn/s/289762056f2e
-
-提取码：5UF1
-
- 
-
-「Linux C函数库参考手册.zip」
-
-链接：https://pan.quark.cn/s/17b1c71598eb
-
-提取码：U2mq
-
- 
-
-「你必须知道的495个C语言问题.zip」
-
-链接：https://pan.quark.cn/s/c4998093a762
-
-提取码：DVzb
-
- 
-
-「The_C_Programming_Language(C程序设计语言).Zip」
-
-链接：https://pan.quark.cn/s/0d1bd9df128a
-
-提取码：RSLa
+你必须知道的495个C语言问题.pdf：[百度云下载链接](https://pan.baidu.com/s/1aaY9FPbkg5Uk3fcHyd9QMQ) 提取码：6er9
 
 ### C++
 
-「Accelerated C++ .Zip」
+Accelerated C++ .pdf：[百度云下载链接](https://pan.baidu.com/s/1JTb2ziU61e2Ov1D37QfQuw) 提取码：s9by
 
-链接：https://pan.quark.cn/s/5c340dc8e08b
+C++ Primer Plus  第6版  中文版.pdf：[百度云下载链接](https://pan.baidu.com/s/1elz6fVdS_qCVfBMtQ6sfkQ) 提取码：a07o
 
-提取码：zcJ5
+C++Primer中文版(第4版).pdf：[百度云下载链接](https://pan.baidu.com/s/1vWQGS0P5kBnsie4Pq6Q2Zw) 提取码：t35p
 
- 
+C++编程思想（两卷合订本）.pdf:[百度云下载链接](https://pan.baidu.com/s/1-iahRrj9dnblZg9v_qoPVQ) 提取码：f7s4
 
-「C++ Primer Plus 第6版 中文版.zip」
+C++编程思想[第二卷].pdf：[百度云下载链接](https://pan.baidu.com/s/1WqNuI6vqeGVyL8Vsd-kOIg) 提取码：ocrr
 
-链接：https://pan.quark.cn/s/864e2fa52853
+C++编程思想[第一卷].pdf：[百度云下载链接](https://pan.baidu.com/s/1YiZ9Xkx4SHwA7K2dQjEHZA) 提取码：rddq
 
-提取码：QtBb
+C++标准程序库.pdf：[百度云下载链接](https://pan.baidu.com/s/1VDISDXWWgA1nSpPAjxtjDA) 提取码：812s
 
- 
+C++程序设计语言(特别版).pdf：[百度云下载链接](https://pan.baidu.com/s/1_nSak-9dZhpwHvutr5NaQg) 提取码：oyei
 
-「C++编程思想（两卷合订本）.Zip」
+C++对象模型.pdf：[百度云下载链接](https://pan.baidu.com/s/1W2A3mLLNLOaY53FiK7YfVw) 提取码：yft1
 
-链接：https://pan.quark.cn/s/1fc3690949f7
+Effective C++中文版(第三版).pdf：[百度云下载链接](https://pan.baidu.com/s/1pkBTuSKLkLqhzeJFk6NRVg) 提取码：v9tb
 
-提取码：25k2
+ISO IEC 14882 2011 (C++11).pdf:[百度云下载链接](https://pan.baidu.com/s/17jdBVchiPHnDWh0GLJ71Gw) 提取码：bpsu
 
- 
+Modern C++ Design中文版.pdf:[百度云下载链接](https://pan.baidu.com/s/1yp2RRxJMoIi9ip2dgcIKFg) 提取码：1sjf
 
-「C++编程思想[第一卷].zip」
+More Effective C++中文版.pdf：[百度云下载链接](https://pan.baidu.com/s/1FVBIARorRSWLD9Wnm3_55A) 提取码：qsn9
 
-链接：https://pan.quark.cn/s/085903d598f1
+More Exceptional C++中文版.pdf:[百度云下载链接](https://pan.baidu.com/s/1B1RLN_S_UqTdl4u0hWc4MQ) 提取码：5kz7
 
-提取码：4BJh
+STL源码剖析简体中文完整版.pdf：[百度云下载链接](https://pan.baidu.com/s/1F5_hLm5BV3gZKBHqpkct3Q) 提取码：97lh
 
- 
-
-「C++编程思想[第二卷].zip」
-
-链接：https://pan.quark.cn/s/ae75f28b6dea
-
-提取码：M2wc
-
- 
-
-「C++标准程序库.Zip」
-
-链接：https://pan.quark.cn/s/9177097325a7
-
-提取码：rf5q
-
- 
-
-「C++程序设计语言(特别版).zip」
-
-链接：https://pan.quark.cn/s/661b136d579a
-
-提取码：yw3n
-
- 
-
-「C++对象模型.zip」
-
-链接：https://pan.quark.cn/s/627ca001ce17
-
-提取码：mGxY
-
- 
-
-「C++Primer中文版(第4版).zip」
-
-链接：https://pan.quark.cn/s/f68280a176a7
-
-提取码：tvnH
-
- 
-
-「Effective C++中文版(第三版).zip」
-
-链接：https://pan.quark.cn/s/8557ea869403
-
-提取码：f97m
-
- 
-
-「ISO IEC 14882 2011 (C++11).Zip」
-
-链接：https://pan.quark.cn/s/63ad7261af89
-
-提取码：FFNj
-
- 
-
-「Modern C++ Design中文版.Zip」
-
-链接：https://pan.quark.cn/s/7130ff23cb01
-
-提取码：qxne
-
- 
-
-「More Effective C++中文版.zip」
-
-链接：https://pan.quark.cn/s/21dfaf6742ce
-
-提取码：u8M7
-
- 
-
-「More Exceptional C++中文版.zip」
-
-链接：https://pan.quark.cn/s/3c2f4bb678ec
-
-提取码：tkg8
-
- 
-
-「深度探索C++对象模型.Zip」
-
-链接：https://pan.quark.cn/s/fa4591f97a98
-
-提取码：PteH
-
- 
-
-「STL源码剖析简体中文完整版.zip」
-
-链接：https://pan.quark.cn/s/17cbc44afc81
-
-提取码：88WN
+深度探索C++对象模型.pdf：[百度云下载链接](https://pan.baidu.com/s/1sfilfRf6r0q7Iu254EnfXg) 提取码：05sl
 
 
 
 ### 汇编
 
-「《汇编语言(第3版) 》王爽著.zip」
+《汇编语言(第3版) 》王爽著.pdf：[百度云下载链接](https://pan.baidu.com/s/1K_xvwMto8tDuK7qG3fCjLw) 提取码：wwqa
 
-链接：https://pan.quark.cn/s/2f8a6bb5dce0
-
-提取码：9HKU
-
- 
-
-「x86汇编语言-从实模式到保护模式.Zip」
-
-链接：https://pan.quark.cn/s/b89a50602af1
-
-提取码：kbVP
+x86汇编语言-从实模式到保护模式.pdf：[百度云下载链接](https://pan.baidu.com/s/1KdTOs1znnEkkssXtgbB1QQ) 提取码：qrev
 
 ## 操作系统
 
- 
+30天自制操作系统 (图灵程序设计丛书).pdf：[百度云下载链接](https://pan.baidu.com/s/114FaMCugQmCNjBSwE0MD9A) 提取码：tm3m
 
-「652659 操作系统精髓与设计原理 第8版.zip」
+操作系统精髓与设计原理  第8版.pdf：[百度云下载链接](https://pan.baidu.com/s/1PFqDEez76b_7ZSaGwhPjxg) 提取码：l1f6
 
-链接：https://pan.quark.cn/s/16a40c2153c3
+Operating Systems_Three Easy Pieces.pdf：[百度云下载链接](https://pan.baidu.com/s/1TbIOO67TJZ4H4HbODyWq1Q) 提取码：ybon
 
-提取码：XLdk
+ORANGE’S：一个操作系统的实现.pdf：[百度云下载链接](https://pan.baidu.com/s/1Y46UjCimxFwuqslGDOOczA) 提取码：15wh
 
- 
+操作系统设计与实现 第3版 上.pdf：[百度云下载链接](https://pan.baidu.com/s/1zQ2hgO-3JyfTyhtcIX87rQ) 提取码：ux6g
 
-「操作系统设计与实现 第3版 上.zip」
+操作系统设计与实现 第3版 下.pdf：[百度云下载链接](https://pan.baidu.com/s/11fDDvl18pee9yvWe6_XMwg) 提取码：rag3
 
-链接：https://pan.quark.cn/s/5b8d4e51a6a9
+操作系统真象还原.pdf：[百度云下载链接](https://pan.baidu.com/s/1Qn0GKFUX9Unc5azPZCn5qA) 提取码：don1
 
-提取码：1T5g
+操作系统之哲学原理 第2版.pdf：[百度云下载链接](https://pan.baidu.com/s/1MgVL-Eq5T5ydeA5_ocduJA) 提取码：vqa4
 
- 
+现代操作系统（原书第3版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1u37uEjYEoUFOFL3PeRpYeQ) 提取码：dfa7
 
-「操作系统设计与实现 第3版 下.zip」
-
-链接：https://pan.quark.cn/s/6922620e962a
-
-提取码：FJQp
-
- 
-
-「操作系统真象还原 553086.zip」
-
-链接：https://pan.quark.cn/s/d36c90427a03
-
-提取码：3WfZ
-
- 
-
-「操作系统之哲学原理 第2版.zip」
-
-链接：https://pan.quark.cn/s/5917dc102d42
-
-提取码：bhyh
-
- 
-
-「Operating Systems_Three Easy Pieces.zip」
-
-链接：https://pan.quark.cn/s/1f7d495c146f
-
-提取码：cfrz
-
- 
-
-「ORANGE’S：一个操作系统的实现.zip」
-
-链接：https://pan.quark.cn/s/33ac384e1369
-
-提取码：Y8kc
-
- 
-
-「现代操作系统（原书第3版）.zip」
-
-链接：https://pan.quark.cn/s/ec3009b27afa
-
-提取码：f8pL
-
- 
-
-「自己动手写操作系统.zip」
-
-链接：https://pan.quark.cn/s/174862d09506
-
-提取码：tXEE
+自己动手写操作系统.pdf：[百度云下载链接](https://pan.baidu.com/s/1dRvcmD2KlZSlmJAfolPyyw) 提取码：47m6
 
 ## 计算机组成原理
 
-「编码：隐匿在计算机软硬件背后的语言.zip」
+编码：隐匿在计算机软硬件背后的语言.pdf：[百度云下载链接](https://pan.baidu.com/s/1HzBj5tDtVqUJ2oy_7ZOX3g) 提取码：pgjy
 
-链接：https://pan.quark.cn/s/a6c8d5da86c7
+程序是怎样跑起来的.pdf：[百度云下载链接](https://pan.baidu.com/s/1kY_iWCqNtEB_AJ9PIn4pKw) 提取码：kzvy
 
-提取码：GkK4
+程序员的自我修养—链接、装载与库.pdf：[百度云下载链接](https://pan.baidu.com/s/1C120D6YJfxojLrt-kUnkyg) 提取码：rl6s
 
- 
+计算机网络-自顶向下方法.pdf：[百度云下载链接](https://pan.baidu.com/s/1b1y6tZ_Qrll5w_PpZ_I7RQ) 提取码：zi08
 
-「程序是怎样跑起来的.zip」
+计算机组成与设计++硬件软件接口+原书第5版.pdf：[百度云下载链接](https://pan.baidu.com/s/1opg2PQx4A7TFF_NzWQdevw) 提取码：ptr4
 
-链接：https://pan.quark.cn/s/a3a5987f56d1
+深入理解计算机系统（原书第三版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1FDTwLJFEULgu_vWlFJ-yVg) 提取码：u226
 
-提取码：qD68
-
- 
-
-「程序员的自我修养—链接、装载与库.zip」
-
-链接：https://pan.quark.cn/s/f7df525ddb39
-
-提取码：2S4x
-
- 
-
-「计算机网络-自顶向下方法.zip」
-
-链接：https://pan.quark.cn/s/e95f3bda3fc4
-
-提取码：14Bx
-
- 
-
-「计算机组成与设计++硬件软件接口+原书第5版.zip」
-
-链接：https://pan.quark.cn/s/ef1ed9d9f516
-
-提取码：VLP5
-
- 
-
-「深入理解计算机系统（原书第三版）.zip」
-
-链接：https://pan.quark.cn/s/16e382301bbf
-
-提取码：h41n
-
- 
-
-「图解HTTP_.zip」
-
-链接：https://pan.quark.cn/s/d5c303c65ca0
-
-提取码：993n
+图解HTTP.pdf：[百度云下载链接](https://pan.baidu.com/s/1sBbOnrYGIeZjf8SWiM184A) 提取码：s90w
 
 
 
 ## 数据结构
 
-「啊哈！算法.zip」
+啊哈！算法.pdf：[百度云下载链接](https://pan.baidu.com/s/1waZAIWfcpeb1LbMrgE5ZYg) 提取码：jlbn
 
-链接：https://pan.quark.cn/s/ddb91f2783ac
+编程之美-完整版.pdf：[百度云下载链接](https://pan.baidu.com/s/1HFndyEviaJJ3s1RtvdxbYA) 提取码：gvcz
 
-提取码：zaft
+编程珠玑 第二版.pdf：[百度云下载链接](https://pan.baidu.com/s/1Aw18sVG8NPZWHQ4pzaqJ2w) 提取码：npxw
 
- 
+大话数据结构.pdf：[百度云下载链接](https://pan.baidu.com/s/1seP3al1XO5V7HnLmbf8C1A) 提取码：dmvy
 
-「编程珠玑 第二版.zip」
+计算机程序设计艺术1-3卷.pdf：[百度云下载链接](https://pan.baidu.com/s/16WfabQGwlQbKsdMjsiByhg) 提取码：3qj2
 
-链接：https://pan.quark.cn/s/80d127fe0821
+数据结构(C语言版).严蔚敏_吴伟民.pdf：[百度云下载链接](https://pan.baidu.com/s/12t4G_L1xxjd9LiPGyIExmw) 提取码：vxjg
 
-提取码：Cxwx
+数据结构与算法C++版.pdf：[百度云下载链接](https://pan.baidu.com/s/1cVj4zJn7ZpDmJZLNSiYEvw) 提取码：yqav
 
- 
+数据结构与算法分析-C语言描述.pdf：[百度云下载链接](https://pan.baidu.com/s/1ocpi201lh52KnKl_VUa4CQ) 提取码：zcjb
 
-「编程之美-完整版.zip」
+数学之美第2版.pdf：[百度云下载链接](https://pan.baidu.com/s/1_VSQmoEVHo2bRc5VeJmqhA) 提取码：6rx2
 
-链接：https://pan.quark.cn/s/082d710c7852
+算法（第4版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1zi5BwL_OtbK_1iRYyzidkw) 提取码：2lf4
 
-提取码：wVi8
+算法导论中文版.pdf：[百度云下载链接](https://pan.baidu.com/s/1t2mhRUxRupO5rgPjjpQw_g) 提取码：2a26
 
- 
+算法图解.pdf：[百度云下载链接](https://pan.baidu.com/s/1oK6w2MgECkGa0c8ZogFGRg) 提取码：a3rl
 
-「大话数据结构.zip」
+算法与数据结构（python版）（北大内部教材）.pdf：[百度云下载链接](https://pan.baidu.com/s/1NhOlfaJ-tx6Coz39Yu3_lw) 提取码：3hg2
 
-链接：https://pan.quark.cn/s/64eda26d809c
-
-提取码：7YLL
-
- 
-
-「计算机程序设计艺术1-3卷.zip」
-
-链接：https://pan.quark.cn/s/593d09e3ab5d
-
-提取码：KFSM
-
- 
-
-「算法（第4版）.zip」
-
-链接：https://pan.quark.cn/s/1388a3fe5935
-
-提取码：eACv
-
- 
-
-「算法导论中文版.zip」
-
-链接：https://pan.quark.cn/s/d335f312363a
-
-提取码：dTqY
-
- 
-
-「算法图解.zip」
-
-链接：https://pan.quark.cn/s/c565432ac4bf
-
-提取码：46k6
-
- 
-
-「算法与数据结构（python版）（北大内部教材）.zip」
-
-链接：https://pan.quark.cn/s/481f3cbd593f
-
-提取码：SXDp
-
- 
-
-「数据结构(C语言版).严蔚敏_吴伟民.zip」
-
-链接：https://pan.quark.cn/s/37b70ff1b7f1
-
-提取码：ZJu3
-
- 
-
-「数据结构与算法C++版.zip」
-
-链接：https://pan.quark.cn/s/21d0f5b521ae
-
-提取码：Zbsk
-
- 
-
-「数据结构与算法分析-C语言描述.zip」
-
-链接：https://pan.quark.cn/s/add56c022332
-
-提取码：fFtM
-
- 
-
-「数学之美第2版.zip」
-
-链接：https://pan.quark.cn/s/27460b28384d
-
-提取码：FEtg
-
- 
-
-「挑战程序设计竞赛(第2版).zip」
-
-链接：https://pan.quark.cn/s/54434d1d8151
-
-提取码：HmB5
+挑战程序设计竞赛(第2版).pdf：[百度云下载链接](https://pan.baidu.com/s/18JK2K71gHQmbHWCeT10V7A) 提取码：jt7b
 
 ## Linux环境
 
-「精通正则表达式.zip」
+Linux初学者入门优秀教程.pdf：[百度云下载链接](https://pan.baidu.com/s/1aoSmYAmaa_T5BkLZ1afJ9A) 提取码：x702
 
-链接：https://pan.quark.cn/s/73c1543aafeb
+LINUX命令行与SHELL脚本编程大全 第三版.pdf：[百度云下载链接](https://pan.baidu.com/s/114fp7F69j24uzBQj5-KH0g) 提取码：yrh2
 
-提取码：zcEK
+Linux命令详解词典.施威铭研究室..pdf：[百度云下载链接](https://pan.baidu.com/s/1lDMcaaBeLyYHnzI0fcX3Pg) 提取码：lh9y
 
- 
+shellbook.pdf：[百度云下载链接](https://pan.baidu.com/s/1R2Uspmciy6F1ANjCyiUtWw) 提取码：lz9n
 
-「Linux初学者入门优秀教程.zip」
+Shell编程大全.pdf：[百度云下载链接](https://pan.baidu.com/s/1ed-D3oPbGxYMtsD5etl5OA) 提取码：oahd
 
-链接：https://pan.quark.cn/s/8fbbdd45bced
+Shell命令行操作.pdf：[百度云下载链接](https://pan.baidu.com/s/1ubzbacrjIOcM1LL8bfLXIQ) 提取码：bt7m
 
-提取码：td5m
+精通正则表达式.pdf：[百度云下载链接](https://pan.baidu.com/s/1UuqQAzdOAYaqlChyleKc4w) 提取码：gqw3
 
- 
+鸟哥的Linux私房菜服务器架设篇 第三版_.pdf：[百度云下载链接](https://pan.baidu.com/s/1h13aXGfKos9utgwIoMA2_w) 提取码：fzz1
 
-「Linux命令详解词典.施威铭研究室..zip」
+鸟哥的Linux私房菜-基础学习篇(第四版).pdf：[百度云下载链接](https://pan.baidu.com/s/1ZtNc-HVZt2V4x18_BBThgg) 提取码：wvc2
 
-链接：https://pan.quark.cn/s/e3f9f4df7f2d
 
-提取码：62mv
-
- 
-
-「LINUX命令行与SHELL脚本编程大全 第三版.zip」
-
-链接：https://pan.quark.cn/s/bad248520ccc
-
-提取码：hMtG
-
- 
-
-「鸟哥的Linux私房菜-基础学习篇(第四版)高清完整书签PDF版.zip」
-
-链接：https://pan.quark.cn/s/748f89dc9c68
-
-提取码：jfMv
-
- 
-
-「鸟哥的Linux私房菜服务器架设篇 第三版_.zip」
-
-链接：https://pan.quark.cn/s/d584670a3f0f
-
-提取码：K2ak
-
- 
-
-「Shell编程大全.zip」
-
-链接：https://pan.quark.cn/s/d66d31a16bf6
-
-提取码：K1M8
-
- 
-
-「shellbook.Zip」
-
-链接：https://pan.quark.cn/s/b1a3140a8502
-
-提取码：1cAZ
-
- 
-
-「Shell命令行操作.Zip」
-
-链接：https://pan.quark.cn/s/3a171dbe2ae8
-
-提取码：rm5T
 
 ## Linux应用
 
-「《Unix与Linux.Shell编程》.zip」
+《Unix与Linux.Shell编程》.pdf：[百度云下载链接](https://pan.baidu.com/s/1z9CYC7_ZRZ3SlL2j0BS-4Q) 提取码：xgw9
 
-链接：https://pan.quark.cn/s/a9a1a3432eda
+GNU_Linux编程指南（第二版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1KkOfOJmMkD8eqjlFEIrk4w) 提取码：mryu
 
-提取码：xuby
+Linux操作系统下C语言编程入门.pdf：[百度云下载链接](https://pan.baidu.com/s/1yeN6ErcZ3ISimkETx0P9dQ) 提取码：knh6
 
- 
+Linux环境编程：从应用到内核+(Linux-Unix技术丛书).pdf：[百度云下载链接](https://pan.baidu.com/s/1rj21B_cDuVl-TgScBxkRXQ) 提取码：px21
 
-「GNU_Linux编程指南（第二版）.zip」
+TCP-IP详解卷1：协议.pdf：[百度云下载链接](https://pan.baidu.com/s/14FYgT-gBKWqJvC8sZdA9xQ) 提取码：41zf
 
-链接：https://pan.quark.cn/s/5b487961db73
+TCP-IP详解卷2：实现.pdf：[百度云下载链接](https://pan.baidu.com/s/1X9IOOSKs2SUUt3vosCpayQ) 提取码：j25t
 
-提取码：5amA
+TCP-IP详解卷3：TCP事务协议.pdf：[百度云下载链接](https://pan.baidu.com/s/1R9Wux8Ps7NzxSLlRQ9l22Q) 提取码：tf18
 
- 
+UNIX环境高级编程（第三版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1pZ_7xUxNVlN0UdgpA7JStQ) 提取码：rcco
 
-「Linux操作系统下C语言编程入门.zip」
+UNIX网络编程第2卷.pdf：[百度云下载链接](https://pan.baidu.com/s/1adu_dS2NPtIxQsNamGWk3w) 提取码：pj0n
 
-链接：https://pan.quark.cn/s/8ed03ada712a
-
-提取码：shHz
-
- 
-
-「Linux环境编程：从应用到内核+(Linux-Unix技术丛书).zip」
-
-链接：https://pan.quark.cn/s/b524bf7dc982
-
-提取码：f5mS
-
- 
-
-「嵌入式Linux应用开发完全手册.zip」
-
-链接：https://pan.quark.cn/s/97dbfc63d0d4
-
-提取码：A123
-
- 
-
-「TCP-IP详解卷1：协议.zip」
-
-链接：https://pan.quark.cn/s/84fe05d7d25c
-
-提取码：ygdC
-
- 
-
-「TCP-IP详解卷2：实现.zip」
-
-链接：https://pan.quark.cn/s/3015e6d14ccc
-
-提取码：pJGL
-
- 
-
-「TCP-IP详解卷3：TCP事务协议.zip」
-
-链接：https://pan.quark.cn/s/f3f85b42dc3a
-
-提取码：vBcw
-
- 
-
-「UNIX环境高级编程（第三版）.zip」
-
-链接：https://pan.quark.cn/s/c8e4c02f572c
-
-提取码：PugN
-
- 
-
-「UNIX网络编程第2卷.zip」
-
-链接：https://pan.quark.cn/s/f2f03342bb6d
-
-提取码：znQ7
+嵌入式Linux应用开发完全手册.pdf：[百度云下载链接](https://pan.baidu.com/s/1lBbhCCXm_6hhgNj4Jq0tvg) 提取码：326e
 
 
 
 ## Linux内核
 
-「底层工作者手册之嵌入式操作系统内核5.7.Zip」
+Linux0.12完全注释.pdf：[百度云下载链接](https://pan.baidu.com/s/1UA7VYDULjQ0avr5OgtFntA) 提取码：smc7
 
-链接：https://pan.quark.cn/s/d6410490ce62
+linux内核IO性能优化及块BIO处理.pdf：[百度云下载链接](https://pan.baidu.com/s/1_nDvA3jvYIalo0BgxiB3IA) 提取码：5pnf
 
-提取码：52SA
+Linux内核设计与实现(第三版).pdf：[百度云下载链接](https://pan.baidu.com/s/1_vPSb-q8TykLluXhXkUC7g) 提取码：cmsr
 
- 
+LINUX内核完全剖析：基于0.12内核.pdf：[百度云下载链接](https://pan.baidu.com/s/1dTkVhxLbTc5ASiQCtjTvtQ) 提取码：inb0
 
-「Linux0.12完全注释.Zip」
+Linux内核源代码情景分析.pdf：[百度云下载链接](https://pan.baidu.com/s/1nMKKLYaZug27-zAEud2auQ) 提取码：87qz
 
-链接：https://pan.quark.cn/s/432300f8f730
+LINUX设备驱动程序(第3版).pdf：[百度云下载链接](https://pan.baidu.com/s/1-YbIj-KRyBmYkEuXdvLmrw) 提取码：asz3
 
-提取码：Nczy
+Linux设备驱动开发详解：基于最新的Linux4.0内核.pdf：[百度云下载链接](https://pan.baidu.com/s/1XDkWhXChF4HxHllTZnwjbw) 提取码：xtta
 
- 
+Mastering Linux Kernel Development(conv).pdf：[百度云下载链接](https://pan.baidu.com/s/1zbTIbOp23ZS3i3Hs0QIW3w) 提取码：ldam
 
-「linux内核IO性能优化及块BIO处理.Zip」
+底层工作者手册之嵌入式操作系统内核5.7.pdf：[百度云下载链接](https://pan.baidu.com/s/1VTlGZavuVvkJiJxMUAucyA) 提取码：0vni
 
-链接：https://pan.quark.cn/s/d8cd88f037c0
+深入Linux内核架构（中文版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1_LAh1uLsGCzR9_NhyNDG2w) 提取码：kfjq
 
-提取码：Lrr5
+深入Linux设备驱动程序内核机制.pdf：[百度云下载链接](https://pan.baidu.com/s/1dQaBqdl3ElRsoUq7g9f3jg) 提取码：ol94
 
- 
-
-「Linux内核设计与实现(第三版).Zip」
-
-链接：https://pan.quark.cn/s/6e66e3523e79
-
-提取码：saDR
-
- 
-
-「LINUX内核完全剖析：基于0.12内核.Zip」
-
-链接：https://pan.quark.cn/s/b0fb57dc9685
-
-提取码：6bKx
-
- 
-
-「Linux内核源代码情景分析.Zip」
-
-链接：https://pan.quark.cn/s/7f9194ead82e
-
-提取码：5SNc
-
- 
-
-「LINUX设备驱动程序(第3版).Zip」
-
-链接：https://pan.quark.cn/s/4e6a4c47225f
-
-提取码：TDG9
-
- 
-
-「Linux设备驱动开发详解：基于最新的Linux4.0内核.Zip」
-
-链接：https://pan.quark.cn/s/6d78e7c61bae
-
-提取码：8qf6
-
- 
-
-「Mastering Linux Kernel Development(conv).Zip」
-
-链接：https://pan.quark.cn/s/021dff252093
-
-提取码：g69c
-
- 
-
-「深入Linux内核架构（中文版）.Zip」
-
-链接：https://pan.quark.cn/s/da4994843021
-
-提取码：9TbQ
-
- 
-
-「深入Linux设备驱动程序内核机制.Zip」
-
-链接：https://pan.quark.cn/s/d8afefddd9af
-
-提取码：ZnsF
-
- 
-
-「深入理解linux内核中文第三版.Zip」
-
-链接：https://pan.quark.cn/s/b6b2549234d1
-
-提取码：uTAN
+深入理解linux内核中文第三版.pdf：[百度云下载链接](https://pan.baidu.com/s/1JjvXeHdBcTlyeyO6TbuC8w) 提取码：0wqf
 
 ## Git版本管理
 
-「从+0+开始学习+GitHub+系列.Zip」
+从+0+开始学习+GitHub+系列.pdf：[百度云下载链接](https://pan.baidu.com/s/1iIztZXTaNY1LxfdoDbVfKA) 提取码：0udj
 
-链接：https://pan.quark.cn/s/7b91293705ad
+Pro+Git+第二版（中文版).pdf:[百度云下载链接](https://pan.baidu.com/s/1Wk1G6HXFYed7DO4KYB5TCA) 提取码：9a6j
 
-提取码：6qy5
+Git基础功能.pdf:链接：[百度云下载链接](https://pan.baidu.com/s/10qzDXCUnjZQobnGcc9aAmQ) 提取码：7aki
 
- 
-
-「GitHub入门与实践.Zip」
-
-链接：https://pan.quark.cn/s/4822d6bb2f0c
-
-提取码：3EbD
-
- 
-
-「Git基础功能.Zip」
-
-链接：https://pan.quark.cn/s/014cec33d09a
-
-提取码：Dvff
-
- 
-
-「Pro+Git+第二版（中文版).Zip」
-
-链接：https://pan.quark.cn/s/ff5ec4968e2e
-
-提取码：QZEg
+GitHub入门与实践.pdf：[百度云下载链接](https://pan.baidu.com/s/1GKqjG0ZTYcAbO6S9YQqzEQ) 提取码：ftkn
 
 ## 笔试面试
 
@@ -1053,93 +345,31 @@ Linux BSP工程师面试常问问题汇集..pdf：[百度云下载链接](https:
 
 ## 进阶认知
 
-「成为技术领导者 解决问题的有机方法.Zip」
+浪潮之巅（完整版）.pdf：[百度云下载链接](https://pan.baidu.com/s/1zRGUHGi4bnTquNqzOy4B6g) 提取码：ke66
 
-链接：https://pan.quark.cn/s/0225c0aca5fd
+交互设计之路.pdf：[百度云下载链接](https://pan.baidu.com/s/1U3rj0BT96j-EHX10cRznhw) 提取码：d1sm
 
-提取码：ViZK
+极客与团队 软件工程师的团队生存秘笈.pdf：[百度云下载链接](https://pan.baidu.com/s/1WP9kM8IF2ZKGsAkOHT09-Q) 提取码：hfqi
 
- 
+黑客与画家.pdf：[百度云下载链接](https://pan.baidu.com/s/1OIgB2-ZdEgocBW_dIty2Fg) 提取码：i63w
 
-「成为技术领导者 掌握全面解决问题的方法.Zip」
+程序员修炼之道.pdf：[百度云下载链接](https://pan.baidu.com/s/15t-CLbHbFivHGyby06vF9g) 提取码：7o9b
 
-链接：https://pan.quark.cn/s/7cc1e64997cc
+成为技术领导者 掌握全面解决问题的方法.pdf：[百度云下载链接](https://pan.baidu.com/s/1s9Ndf1bkjM9SEFr5rWBGrg) 提取码：pf7c
 
-提取码：2Dsg
+成为技术领导者 解决问题的有机方法.pdf：[百度云下载链接](https://pan.baidu.com/s/1O3FiCYpi64LwiZqbdY3-rA) 提取码：uizp
 
- 
+禅与摩托车维修艺术 .pdf：[百度云下载链接](https://pan.baidu.com/s/177AC_Qga2uotzHyb_eKg-g) 提取码：27zj
 
-「程序员修炼之道.Zip」
+NET企业级应用架构设计(2nd).pdf：[百度云下载链接](https://pan.baidu.com/s/1uHqF-c4UCyUBdtz1WRJzRA) 提取码：9c3w
 
-链接：https://pan.quark.cn/s/89621c4657be
 
-提取码：QcVN
-
- 
-
-「黑客与画家.Zip」
-
-链接：https://pan.quark.cn/s/320e3e6ed953
-
-提取码：DQ4A
-
- 
-
-「交互设计之路.Zip」
-
-链接：https://pan.quark.cn/s/515645030fe1
-
-提取码：nUmr
-
- 
-
-「极客与团队 软件工程师的团队生存秘笈.Zip」
-
-链接：https://pan.quark.cn/s/123e196147eb
-
-提取码：VbAd
-
- 
-
-「浪潮之巅（完整版）.Zip」
-
-链接：https://pan.quark.cn/s/23aa81a94aad
-
-提取码：4XR6
-
- 
-
-「NET企业级应用架构设计(2nd).Zip」
-
-链接：https://pan.quark.cn/s/13b52b7a4657
-
-提取码：ZsDu
-
- 
-
-「禅与摩托车维修艺术 .Zip」
-
-链接：https://pan.quark.cn/s/02be3ba59b18
-
-提取码：hwVK
 
 
 
 ## 其他
 
-「Binary_Hacks-黑客秘笈100选.zip」
-
-链接：https://pan.quark.cn/s/4033b10c10d2
-
-提取码：gQ2R
-
- 
-
-「DEBUG HACKS中文版 深入调试的技术和工具.zip」
-
-链接：https://pan.quark.cn/s/9d100fdaa84c
-
-提取码：DEM6
+DEBUG HACKS中文版  深入调试的技术和工具.pdf：[百度云下载链接](https://pan.baidu.com/s/1LeLaSroB-Ii8pIbShARQvA)  提取码：7xbz
 
 ## 全部汇总
 
